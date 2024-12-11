@@ -15,7 +15,7 @@ const Navbar = ({ onSearch }: { onSearch: (term: string) => void }) => {
     <nav className="bg-blue-600 text-white p-4">
       <div className="container mx-auto flex justify-between items-center">
         <Link href="/" className="text-xl font-bold">
-          E-Commerce
+          webCommerce
         </Link>
         <input
           type="text"
